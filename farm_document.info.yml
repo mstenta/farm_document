@@ -1,0 +1,7 @@
+name: Document
+description: Document management for farmOS.
+type: module
+package: farmOS Contrib
+core_version_requirement: ^9 || ^10
+dependencies:
+  - farm_entity
