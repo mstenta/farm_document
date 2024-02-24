@@ -1,7 +1,8 @@
 name: Document
 description: Document management for farmOS.
 type: module
-package: farmOS Contrib
-core_version_requirement: ^9 || ^10
+package: farmOS Contrib (Experimental)
+core_version_requirement: ^10
+lifecycle: experimental
 dependencies:
   - farm_entity
